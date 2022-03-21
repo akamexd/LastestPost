@@ -1,0 +1,8 @@
+news:
+  text: "&aВ группе появилась новая новость!"
+  click:
+    action: RUN_COMMAND
+    value: "/news"
+  hover:
+    action: SHOW_TEXT
+    value: "&aКликни, чтобы просмотреть последнюю новость!"
